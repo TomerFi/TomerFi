@@ -1,0 +1,19 @@
+---
+name: Update latest posts
+
+on:
+  schedule:
+  - cron: '0 */12 * * *'
+
+jobs:
+  update-readme:
+    name: Update README with latest posts from youtube and dev.to
+    runs-on: ubuntu-latest
+    steps:
+      - name: Source checkout
+        uses: actions/checkout@v2
+      - name: Update posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://dev.to/feed/tomerfi,https://www.youtube.com/feeds/videos.xml?channel_id=UCH9z4dabjTo-pRqM3_i5RTg"
+          commit_message: "updated readme with the latest dev.to and youtube data"

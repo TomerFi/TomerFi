@@ -76,6 +76,11 @@ So I'm just gonna drop some of them here: :grin:</br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomerFi&layout=compact&theme=highcontrast" alt="tomerfi" />
 </p>
 
+#### Latest posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <p align="left">
   <h4 align="left">Acknowledgments</h4>
   <ul>
@@ -83,5 +88,6 @@ So I'm just gonna drop some of them here: :grin:</br>
     <li><a href="https://simpleicons.org/" target="blank">Simple Icons</a></li>
     <li><a href="https://devicons.github.io/devicon/" target="blank">Devicon</a></li>
     <li><a href="https://www.vectorlogo.zone/" target="blank">VectorLogoZone</a></li>
+    <li><a href="https://github.com/gautamkrishnar/blog-post-workflow" target="blank">Gautamkrishnar's blog-post-workflow</a></li>
   </ul>
 </p>
