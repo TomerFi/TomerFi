@@ -10,8 +10,11 @@
     <a href="https://www.youtube.com/channel/UCH9z4dabjTo-pRqM3_i5RTg" target="blank">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="tomfi" height="30" width="30" />
     </a>
-    <a href="https://portfolio.tomfi.info/" target="blank">
+    <a href="https://portfolio.tomfi.info" target="blank">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="portfolio" height="30" width="30" />
+    </a>
+    <a href="https://dev.to/tomerfi" target="blank">
+      <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="devdotto" height="30" width="30" />
     </a>
   </h1>
 </p>
