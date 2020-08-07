@@ -17,4 +17,3 @@ jobs:
         with:
           feed_list: "https://dev.to/feed/tomerfi,https://www.youtube.com/feeds/videos.xml?channel_id=UCH9z4dabjTo-pRqM3_i5RTg"
           commit_message: "updated readme with the latest dev.to and youtube data"
-          max_post_count: 3
