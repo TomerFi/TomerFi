@@ -82,6 +82,8 @@ So I'm just gonna drop some of them here: :grin:</br>
 - [Experimenting with RobotFramework and Selenium](https://dev.to/tomerfi/experimenting-with-robotframework-and-selenium-4jgc)
 - [Groovying with Java](https://dev.to/tomerfi/groovying-with-java-59hp)
 - [Docker for beginners part 2 video 2/2 in Hebrew (better quality)!](https://www.youtube.com/watch?v=GXq2ed64_Cs)
+- [Docker for beginners part 2 video 1/2 in Hebrew (better quality)!](https://www.youtube.com/watch?v=gv71FJzHtKU)
+- [Docker for beginners part 2 video 2/2 in Hebrew (poor quality)!](https://www.youtube.com/watch?v=AC_DIBH0shk)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
