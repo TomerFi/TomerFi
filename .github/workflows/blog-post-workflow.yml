@@ -7,13 +7,23 @@ on:
 
 jobs:
   update-readme:
-    name: Update README with latest posts from youtube and dev.to
+    name: Update README with latest videos and posts from youtube and dev.to
     runs-on: ubuntu-latest
     steps:
       - name: Source checkout
         uses: actions/checkout@v2
-      - name: Update posts
+
+      - name: Update dev community posts
         uses: gautamkrishnar/blog-post-workflow@1.1.5
         with:
-          feed_list: "https://dev.to/feed/tomerfi,https://www.youtube.com/feeds/videos.xml?channel_id=UCH9z4dabjTo-pRqM3_i5RTg"
-          commit_message: "updated readme with the latest dev.to and youtube data"
+          comment_tag_name: DEVDOTTO
+          feed_list: "https://dev.to/feed/tomerfi"
+          commit_message: "updated readme with the latest dev.to posts"
+
+      - name: Update youtube videos
+        uses: gautamkrishnar/blog-post-workflow@1.1.5
+        with:
+          comment_tag_name: YOUTUBEVIDS
+          max_post_count: 2
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCH9z4dabjTo-pRqM3_i5RTg"
+          commit_message: "updated readme with the latest youtube videos"
