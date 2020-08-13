@@ -25,6 +25,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@1.2.3
         with:
           comment_tag_name: YOUTUBEVIDS
-          max_post_count: 3
+          max_post_count: 2
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCH9z4dabjTo-pRqM3_i5RTg"
           commit_message: "updated readme with the latest youtube videos"
