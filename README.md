@@ -57,11 +57,11 @@ So I'm just gonna drop some of them here: :grin:</br>
 #### My Latest Dev Community Posts
 
 <!-- DEVDOTTO:START -->
+- [My Ultimate Development Dockerfile](https://dev.to/tomerfi/my-ultimate-development-dockerfile-4hg1)
 - [Dependency Injection in Java is easy - Part 3 - Leveraging with Spring Context](https://dev.to/tomerfi/dependency-injection-in-java-is-easy-part-3-leveraging-with-spring-context-gcc)
 - [Dependency Injection in Java is easy - Part 2 - Leveraging with Google Guice](https://dev.to/tomerfi/dependency-injection-in-java-is-easy-part-2-leveraging-with-google-guice-6i4)
 - [Dependency Injection in Java is easy - Part 1 - Merely a design pattern](https://dev.to/tomerfi/dependency-injection-in-java-is-easy-part-1-a-mear-design-pattern-2l8)
 - [Experimenting with RobotFramework and Selenium](https://dev.to/tomerfi/experimenting-with-robotframework-and-selenium-4jgc)
-- [Groovying with Java](https://dev.to/tomerfi/groovying-with-java-59hp)
 <!-- DEVDOTTO:END -->
 
 #### My Latest YouTube Videos
