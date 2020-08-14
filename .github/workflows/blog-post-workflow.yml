@@ -18,6 +18,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@1.2.3
         with:
           comment_tag_name: DEVDOTTO
+          max_post_count: 10
           feed_list: "https://dev.to/feed/tomerfi"
           commit_message: "updated readme with the latest dev.to posts"
 
