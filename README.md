@@ -93,6 +93,6 @@ So I'm just gonna drop some of them here: :grin:</br>
 
 <p align="left">
   <a href="https://maven.apache.org/resource/branding/actioncards.html">
-    <img src="assets/img/im_a_happy_maven_user_1.png" alt=happymaven  width="20%" height="20%"/>
+    <img src="assets/img/im_a_happy_maven_user_1.png" alt=happymaven  width="30%" height="30%"/>
   </a>
 </p>
