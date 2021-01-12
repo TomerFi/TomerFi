@@ -89,7 +89,7 @@ So I'm just gonna drop some of them here: :grin:</br>
   <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="40" height="40"/>
 </p>
 
-#### I woul'd also want to point out that:😎
+#### I would also want to point out that 😎
 
 <p align="left">
   <a href="https://maven.apache.org/resource/branding/actioncards.html">
