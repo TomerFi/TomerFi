@@ -41,8 +41,7 @@ So I'm just gonna drop some of them here: :grin:</br>
 - 🔭 *I’m currently working on ...* A big project for work involving
   [SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol) :telephone_receiver:
 
-- 🌱 *I’m currently learning ...* [Serenity BDD](https://serenity-bdd.github.io/theserenitybook/latest/index.html),
-  as I'm considering it for acceptance tests. :white_check_mark:
+- 🌱 *I’m currently learning ...* the power of `JPMS`. :white_check_mark:
 
 - 👯 *I’m looking to collaborate on ...* Java projects, if you see something, do tell! :handshake:
 
