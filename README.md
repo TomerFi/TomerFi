@@ -56,6 +56,7 @@ So I'm just gonna drop some of them here: :grin:</br>
 #### My Latest Dev Community Posts
 
 <!-- DEVDOTTO:START -->
+- [JPMS Migration Playground](https://dev.to/tomerfi/jpms-migration-playground-a94)
 - [My Ultimate Development Dockerfile](https://dev.to/tomerfi/my-ultimate-development-dockerfile-4hg1)
 - [Dependency Injection in Java is easy - Part 3 - Leveraging with Spring Context](https://dev.to/tomerfi/dependency-injection-in-java-is-easy-part-3-leveraging-with-spring-context-gcc)
 - [Dependency Injection in Java is easy - Part 2 - Leveraging with Google Guice](https://dev.to/tomerfi/dependency-injection-in-java-is-easy-part-2-leveraging-with-google-guice-6i4)
