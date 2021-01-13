@@ -40,13 +40,13 @@ So I'm just gonna drop some of them here: :grin:</br>
 
 - 🔭 *I’m currently working on ...* A microservice for work involving telephony :telephone_receiver:
 
-- 🌱 *I’m currently learning ...* the power of `JPMS`. :white_check_mark:
+- 🌱 *I’m currently learning ...* the power of `JPMS`. :muscle:
 
 - 👯 *I’m looking to collaborate on ...* Java projects, if you see something, do tell! :handshake:
 
 - 🤔 *I’m looking for help with ...* Finding a way to add more hours to every day. :hourglass_flowing_sand:
 
-- 💬 *Ask me about ...* New technologies, I love chatting about new techs. :eyeglasses:
+- 💬 *Ask me about ...* New frameworks and APIs, I love new frameworks and APIs. :eyeglasses:
 
 - 📫 *How to reach me: ...* You can [Gmail me](mailto:tomer.figenblat@gmail.com). :speech_balloon:
 
