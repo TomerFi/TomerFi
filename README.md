@@ -71,7 +71,7 @@ So I'm just gonna drop some of them here: :grin:</br>
 - [Docker for beginners part 2 video 1/2 in Hebrew (better quality)!](https://www.youtube.com/watch?v=gv71FJzHtKU)
 <!-- YOUTUBEVIDS:END -->
 
-#### On a day-to-day basis I work with
+#### On a day-to-day basis, I work with
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="40"/>
@@ -88,7 +88,7 @@ So I'm just gonna drop some of them here: :grin:</br>
   <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="40" height="40"/>
 </p>
 
-#### I would also want to point out that 😎
+#### I would also like to point out that 😎
 
 <p align="left">
   <a href="https://maven.apache.org/resource/branding/actioncards.html">
