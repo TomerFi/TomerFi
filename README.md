@@ -38,8 +38,7 @@ And... They're cool!
 
 So I'm just gonna drop some of them here: :grin:</br>
 
-- 🔭 *I’m currently working on ...* A big project for work involving
-  [SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol) :telephone_receiver:
+- 🔭 *I’m currently working on ...* A microservice for work involving telephony :telephone_receiver:
 
 - 🌱 *I’m currently learning ...* the power of `JPMS`. :white_check_mark:
 
