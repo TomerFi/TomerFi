@@ -3,8 +3,6 @@ name: Update latest posts
 
 on:
   workflow_dispatch:
-  schedule:
-  - cron: '0 */3 * * *'
 
 jobs:
   update-readme:
