@@ -55,6 +55,7 @@ So I'm just gonna drop some of them here: :grin:</br>
 #### My Latest Dev Community Posts
 
 <!-- DEVDOTTO:START -->
+- [Alexa Skills Testing](https://dev.to/tomerfi/alexa-skills-testing-4pfd)
 - [JPMS Migration Playground](https://dev.to/tomerfi/jpms-migration-playground-a94)
 - [My Ultimate Development Dockerfile](https://dev.to/tomerfi/my-ultimate-development-dockerfile-4hg1)
 - [Dependency Injection in Java is easy - Part 3 - Leveraging with Spring Context](https://dev.to/tomerfi/dependency-injection-in-java-is-easy-part-3-leveraging-with-spring-context-gcc)
