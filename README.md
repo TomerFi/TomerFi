@@ -7,11 +7,11 @@
     <a href="https://www.linkedin.com/in/tomerfi" target="blank">
       <img align="center" src="https://img.shields.io/badge/-tomerfi-0e76a8?style=flat-square&logo=linkedin" alt="linkedin"/>
     </a>
-    <a href="https://www.youtube.com/channel/UCH9z4dabjTo-pRqM3_i5RTg" target="blank">
-      <img align="center" src="https://img.shields.io/badge/-TomFi-c4302b?style=flat-square&logo=youtube" alt="youtube"/>
-    </a>
     <a href="https://dev.to/tomerfi" target="blank">
       <img align="center" src="https://img.shields.io/badge/-@tomerfi-0A0A0A?style=flat-square&logo=dev.to" alt="devdotto" />
+    </a>
+    <a href="https://www.youtube.com/channel/UCH9z4dabjTo-pRqM3_i5RTg" target="blank">
+      <img align="center" src="https://img.shields.io/badge/-TomFi-c4302b?style=flat-square&logo=youtube" alt="youtube"/>
     </a>
   </h1>
 </p>
