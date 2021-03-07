@@ -13,9 +13,6 @@
     <a href="https://dev.to/tomerfi" target="blank">
       <img align="center" src="https://img.shields.io/badge/-@tomerfi-0A0A0A?style=flat-square&logo=dev.to" alt="devdotto" />
     </a>
-    <a href="https://portfolio.tomfi.info" target="blank">
-      <img align="center" src="https://img.shields.io/badge/-portfolio-E34F26?style=flat-square&logo=html5&labelColor=white" alt="portfolio" />
-    </a>
   </h1>
 </p>
 
