@@ -37,7 +37,7 @@ So I'm just gonna drop some of them here: :grin:</br>
 
 - 🔭 *I’m currently working on ...* A microservice for work involving telephony :telephone_receiver:
 
-- 🌱 *I’m currently learning ...* the power of `JPMS`. :muscle:
+- 🌱 *I’m currently playing around with ...* the power of `JPMS`. :muscle:
 
 - 👯 *I’m looking to collaborate on ...* Java projects, if you see something, do tell! :handshake:
 
