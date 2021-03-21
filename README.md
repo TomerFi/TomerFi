@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="left">
-  <h1 align="left">👋 Hey there, I'm Tomer Figenblat 👋</br>
+  <h1 align="left">Hey there, I'm Tomer Figenblat</br>
     <a href="https://twitter.com/intent/follow?screen_name=realTomFi" target="blank">
       <img align="center" src="https://img.shields.io/badge/-@realTomFi-1DA1F2?style=flat-square&logo=twitter&labelColor=white" alt="twitter"/>
     </a>
@@ -28,12 +28,12 @@
 #### My Latest Public Deployments
 
 | Target        | Artifact                      |               |                 |
-| :------------ | :---------------------------- | :-----------: | :-------------: |
-| Maven Central | **alexa-skills-tester**       | [artifact][0] | [repository][1] |
-| Maven Central | **hebcal-api**                | [artifact][2] | [repository][3] |
-| Docker Hub    | **switcher_webapi**           | [artifact][4] | [repository][5] |
-| PyPi          | **aioswitcher**               | [artifact][6] | [repository][7] |
-| Alexa Skills  | **alexa-skill-shabbat-times** | [artifact][8] | [repository][9] |
+| :------------ | :---------------------- | :-----------: | :-------------: |
+| Maven Central | **alexa-skills-tester** | [artifact][0] | [repository][1] |
+| Maven Central | **hebcal-api**          | [artifact][2] | [repository][3] |
+| Docker Hub    | **switcher_webapi**     | [artifact][4] | [repository][5] |
+| PyPi          | **aioswitcher**         | [artifact][6] | [repository][7] |
+| Alexa Skills  | **shabbat-times**       | [artifact][8] | [repository][9] |
 
 [0]: https://search.maven.org/artifact/info.tomfi.alexa/alexa-skills-tester
 [1]: https://github.com/TomerFi/alexa-skills-tester
