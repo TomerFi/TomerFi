@@ -17,10 +17,11 @@
 </p>
 <p align="left">
 
-  I'm a software engineer, my :gun: of choice is *Java*.</br>
-  Most days, I would prefer describing myself as a Java programmer.</br>
+  I'm a Software Engineer.</br>
+  *Java* is my weapon of choice, *Backend* is my area of expertise.</br>
+  Most days, I would prefer describing myself as a Java Programmer.</br>
 
-  I also do some *C#*, *Python*, *Groovy*, and a couple of other languages.</br>
+  I also code in *C#*, *Python*, *Groovy*, and a couple of other languages.</br>
   When they are more in line with what I'm working on at the time.
 </p>
 
