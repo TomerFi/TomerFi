@@ -24,12 +24,26 @@
   When they are more in line with what I'm working on at the time.
 </p>
 
-#### My Latest Maven Central Deployments
+#### My Latest Public Deployments
 
-- *alexa-skills-tester* [ [artifact](https://search.maven.org/artifact/info.tomfi.alexa/alexa-skills-tester) ]
-  [ [repository](https://github.com/TomerFi/alexa-skills-tester) ]
-- *hebcal-api* [ [artifact](https://search.maven.org/artifact/info.tomfi.hebcal/hebcal-api) ]
-  [ [repository](https://github.com/TomerFi/hebcal-api) ]
+| Target        | Artifact                      |               |                 |
+| :------------ | :---------------------------- | :-----------: | :-------------: |
+| Maven Central | **alexa-skills-tester**       | [artifact][0] | [repository][1] |
+| Maven Central | **hebcal-api**                | [artifact][2] | [repository][3] |
+| Docker Hub    | **switcher_webapi**           | [artifact][4] | [repository][5] |
+| PyPi          | **aioswitcher**               | [artifact][6] | [repository][7] |
+| Alexa Skills  | **alexa-skill-shabbat-times** | [artifact][8] | [repository][9] |
+
+[0]: https://search.maven.org/artifact/info.tomfi.alexa/alexa-skills-tester
+[1]: https://github.com/TomerFi/alexa-skills-tester
+[2]: https://search.maven.org/artifact/info.tomfi.hebcal/hebcal-api
+[3]: https://github.com/TomerFi/hebcal-api
+[4]: https://hub.docker.com/r/tomerfi/switcher_webapi
+[5]: https://github.com/TomerFi/switcher_webapi
+[6]: https://pypi.org/project/aioswitcher
+[7]: https://github.com/TomerFi/aioswitcher
+[8]: https://www.amazon.com/Tomer-Figenblat-Shabbat-Times/dp/B072PRCHRD
+[9]: https://github.com/TomerFi/alexa-skill-shabbat-times
 
 #### My Latest Dev Community Posts
 
