@@ -15,39 +15,21 @@
     </a>
   </h1>
 </p>
-
-  <h3 align="left">
-  I'm a software developer and a development ecosystem enthusiast...</br>
-  That means that if I'm not coding for work...
-
-  **:metal: I'm coding for fun! :metal:**
-  </h3>
-
 <p align="left">
 
-  My weapon of choice :gun: is *Java*, I absolutely :heart: *Java*.</br>
-  But I also do some *C#*, *Python*, *Groovy*, and a couple of other languages.</br>
+  I'm a software engineer, my :gun: of choice is *Java*.</br>
+  Most days, I would prefer describing myself as a Java programmer.</br>
+
+  I also do some *C#*, *Python*, *Groovy*, and a couple of other languages.</br>
   When they are more in line with what I'm working on at the time.
 </p>
 
-The profile repository has a couple of example phrases, to get you going...</br>
-And... They're cool!
+#### My Latest Maven Central Deployments
 
-So I'm just gonna drop some of them here: :grin:</br>
-
-- 🔭 *I’m currently working on ...* A microservice for work involving telephony :telephone_receiver:
-
-- 🌱 *I’m currently playing around with ...* the power of `JPMS`. :muscle:
-
-- 👯 *I’m looking to collaborate on ...* Java projects, if you see something, do tell! :handshake:
-
-- 🤔 *I’m looking for help with ...* Finding a way to add more hours to every day. :hourglass_flowing_sand:
-
-- 💬 *Ask me about ...* New frameworks and APIs, I love new frameworks and APIs. :eyeglasses:
-
-- 📫 *How to reach me: ...* You can [Gmail me](mailto:tomer.figenblat@gmail.com). :speech_balloon:
-
-- ⚡ *Fun fact: ...* Is it weird that I love refactoring code even if it's not my own :question:
+- *alexa-skills-tester* [ [artifact](https://search.maven.org/artifact/info.tomfi.alexa/alexa-skills-tester) ]
+  [ [repository](https://github.com/TomerFi/alexa-skills-tester) ]
+- *hebcal-api* [ [artifact](https://search.maven.org/artifact/info.tomfi.hebcal/hebcal-api) ]
+  [ [repository](https://github.com/TomerFi/hebcal-api) ]
 
 #### My Latest Dev Community Posts
 
@@ -68,28 +50,3 @@ So I'm just gonna drop some of them here: :grin:</br>
 - [Docker for beginners part 2 video 2/2 in Hebrew (better quality)!](https://www.youtube.com/watch?v=GXq2ed64_Cs)
 - [Docker for beginners part 2 video 1/2 in Hebrew (better quality)!](https://www.youtube.com/watch?v=gv71FJzHtKU)
 <!-- YOUTUBEVIDS:END -->
-
-#### On a day-to-day basis, I work with
-
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg" alt="groovy" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" alt="grpc" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="dotnet" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="maven" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/nuget/nuget-icon.svg" alt="nuget" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="40" height="40"/>
-</p>
-
-#### I would also like to point out that 😎
-
-<p align="left">
-  <a href="https://maven.apache.org/resource/branding/actioncards.html">
-    <img src="assets/img/im_a_happy_maven_user_1.png" alt=happymaven  width="30%" height="30%"/>
-  </a>
-</p>
