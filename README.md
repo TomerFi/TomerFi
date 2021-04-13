@@ -49,6 +49,7 @@
 #### My Latest Dev Community Posts
 
 <!-- DEVDOTTO:START -->
+- [Property-Based Matrix Testing in Java](https://dev.to/tomerfi/property-based-matrix-testing-in-java-47p4)
 - [Alexa Skills Testing](https://dev.to/tomerfi/alexa-skills-testing-4pfd)
 - [JPMS Migration Playground](https://dev.to/tomerfi/jpms-migration-playground-a94)
 - [My Ultimate Development Dockerfile](https://dev.to/tomerfi/my-ultimate-development-dockerfile-4hg1)
