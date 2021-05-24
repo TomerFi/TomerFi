@@ -49,6 +49,7 @@
 #### My Latest Dev Community Posts
 
 <!-- DEVDOTTO:START -->
+- [JUnit Pioneer - Frontiers Pushed](https://dev.to/tomerfi/junit-pioneer-frontiers-pushed-3jh7)
 - [Property-Based Matrix Testing in Java](https://dev.to/tomerfi/property-based-matrix-testing-in-java-47p4)
 - [Alexa Skills Testing](https://dev.to/tomerfi/alexa-skills-testing-4pfd)
 - [JPMS Migration Playground](https://dev.to/tomerfi/jpms-migration-playground-a94)
