@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="left">
-  <h1 align="left">I'm Tomer Figenblat</br>
+  <h1 align="left">Hello, I'm Tomer Figenblat</br>
     <a href="https://twitter.com/intent/follow?screen_name=realTomFi" target="blank">
       <img align="center" src="https://img.shields.io/badge/-@realTomFi-1DA1F2?style=flat-square&logo=twitter&labelColor=white" alt="twitter"/>
     </a>
