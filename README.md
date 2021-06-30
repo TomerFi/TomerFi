@@ -15,19 +15,17 @@
     </a>
   </h1>
 </p>
+
+#### My Profile Statistics
+
 <p align="left">
-
-  I'm a Software Engineer.</br>
-  *Java* is my weapon of choice, *Backend* is my area of expertise.</br>
-  Most days, I would prefer to describe myself as a Java Programmer.</br>
-
-  I also code in *C#*, *Python*, *Groovy*, and a couple of other languages.</br>
-  When they are more in line with what I'm working on at the time.
+  
+  ![gh-stats](https://github-readme-stats.vercel.app/api?username=tomerfi&theme=nord&hide_border=true&hide_title=true&show_icons=true&count_private=true&hide_rank=true)  
 </p>
 
 #### My Latest Public Deployments
 
-| Target        | Artifact                      |               |                 |
+| Target        | Artifact                |               |                 |
 | :------------ | :---------------------- | :-----------: | :-------------: |
 | Maven Central | **alexa-skills-tester** | [artifact][0] | [repository][1] |
 | Maven Central | **hebcal-api**          | [artifact][2] | [repository][3] |
@@ -67,3 +65,7 @@
 - [Docker for beginners part 2 video 2/2 in Hebrew (better quality)!](https://www.youtube.com/watch?v=GXq2ed64_Cs)
 - [Docker for beginners part 2 video 1/2 in Hebrew (better quality)!](https://www.youtube.com/watch?v=gv71FJzHtKU)
 <!-- YOUTUBEVIDS:END -->
+
+#### My Profile Trophies
+
+[![trophies](https://github-profile-trophy.vercel.app/?username=tomerfi&theme=darkhub&no-bg=true&no-frame=true&column=5)](https://github.com/ryo-ma/github-profile-trophy)
