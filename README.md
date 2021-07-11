@@ -19,8 +19,8 @@
 #### My Profile Statistics
 
 <p align="left">
-  
-  ![gh-stats](https://github-readme-stats.vercel.app/api?username=tomerfi&theme=nord&hide_border=true&hide_title=true&show_icons=true&count_private=true&hide_rank=true)  
+
+  ![gh-stats](https://github-readme-stats.vercel.app/api?username=tomerfi&theme=nord&hide_border=true&hide_title=true&show_icons=true&count_private=true&hide_rank=true)
 </p>
 
 #### My Latest Public Deployments
@@ -58,14 +58,3 @@
 - [Experimenting with RobotFramework and Selenium](https://dev.to/tomerfi/experimenting-with-robotframework-and-selenium-4jgc)
 - [Groovying with Java](https://dev.to/tomerfi/groovying-with-java-59hp)
 <!-- DEVDOTTO:END -->
-
-#### My Latest YouTube Videos
-
-<!-- YOUTUBEVIDS:START -->
-- [Docker for beginners part 2 video 2/2 in Hebrew (better quality)!](https://www.youtube.com/watch?v=GXq2ed64_Cs)
-- [Docker for beginners part 2 video 1/2 in Hebrew (better quality)!](https://www.youtube.com/watch?v=gv71FJzHtKU)
-<!-- YOUTUBEVIDS:END -->
-
-#### My Profile Trophies
-
-[![trophies](https://github-profile-trophy.vercel.app/?username=tomerfi&theme=darkhub&no-bg=true&no-frame=true&column=5)](https://github.com/ryo-ma/github-profile-trophy)
