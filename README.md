@@ -29,7 +29,7 @@
 | Docker Hub    | **switcher_webapi**     | [artifact][4]  | [repository][5]  |
 | PyPi          | **aioswitcher**         | [artifact][6]  | [repository][7]  |
 | Alexa Skills  | **shabbat-times**       | [artifact][8]  | [repository][9]  |
-| JBang         | **jbang-catalog**       | [artifact][10] | [repository][10] |
+| JBang         | **jbang-catalog**       | [artifact][10] | [repository][11] |
 
 [0]: https://search.maven.org/artifact/info.tomfi.alexa/alexa-skills-tester
 [1]: https://github.com/TomerFi/alexa-skills-tester
@@ -41,7 +41,8 @@
 [7]: https://github.com/TomerFi/aioswitcher
 [8]: https://www.amazon.com/Tomer-Figenblat-Shabbat-Times/dp/B072PRCHRD
 [9]: https://github.com/TomerFi/alexa-skill-shabbat-times
-[10]: https://github.com/TomerFi/jbang-catalog
+[10]: https://github.com/TomerFi/jbang-catalog/blob/main/jbang-catalog.json
+[11]: https://github.com/TomerFi/jbang-catalog
 
 #### My Latest Dev Community Posts
 
