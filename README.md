@@ -13,13 +13,6 @@
   </h1>
 </p>
 
-#### My Profile Statistics
-
-<p align="left">
-
-  ![gh-stats](https://github-readme-stats.vercel.app/api?username=tomerfi&theme=nord&hide_border=true&hide_title=true&show_icons=true&count_private=true&hide_rank=true)
-</p>
-
 #### My Latest Public Deployments
 
 | Target        | Artifact                |                |                  |
@@ -27,6 +20,7 @@
 | Maven Central | **alexa-skills-tester** | [artifact][0]  | [repository][1]  |
 | Maven Central | **hebcal-api**          | [artifact][2]  | [repository][3]  |
 | Docker Hub    | **switcher_webapi**     | [artifact][4]  | [repository][5]  |
+| Docker Hub    | **version-bumper**      | [artifact][12] | [repository][13] |
 | PyPi          | **aioswitcher**         | [artifact][6]  | [repository][7]  |
 | Alexa Skills  | **shabbat-times**       | [artifact][8]  | [repository][9]  |
 | JBang         | **jbang-catalog**       | [artifact][10] | [repository][11] |
@@ -43,6 +37,8 @@
 [9]: https://github.com/TomerFi/alexa-skill-shabbat-times
 [10]: https://github.com/TomerFi/jbang-catalog/blob/main/jbang-catalog.json
 [11]: https://github.com/TomerFi/jbang-catalog
+[12]: https://hub.docker.com/r/tomerfi/version-bumper
+[13]: https://github.com/TomerFi/version-bumper
 
 #### My Latest Dev Community Posts
 
