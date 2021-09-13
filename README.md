@@ -10,6 +10,9 @@
     <a href="https://dev.to/tomerfi" target="blank">
       <img align="center" src="https://img.shields.io/badge/-@tomerfi-0A0A0A?style=flat-square&logo=dev.to" alt="devdotto" />
     </a>
+    <a href="https://discordapp.com/users/851889326588690432/" target="blank">
+      <img align="center" src="https://img.shields.io/badge/-tomerfi-7289DA?style=flat-square&logo=discord&logoColor=2C2F33" alt="discord" />
+    </a>
   </h1>
 </p>
 
