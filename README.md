@@ -18,15 +18,16 @@
 
 #### My Latest Public Deployments
 
-| Target        | Artifact                |                |                  |
-| :------------ | :---------------------- | :------------: | :--------------: |
-| Maven Central | **alexa-skills-tester** | [artifact][0]  | [repository][1]  |
-| Maven Central | **hebcal-api**          | [artifact][2]  | [repository][3]  |
-| Docker Hub    | **switcher_webapi**     | [artifact][4]  | [repository][5]  |
-| Docker Hub    | **version-bumper**      | [artifact][12] | [repository][13] |
-| PyPi          | **aioswitcher**         | [artifact][6]  | [repository][7]  |
-| Alexa Skills  | **shabbat-times**       | [artifact][8]  | [repository][9]  |
-| JBang         | **jbang-catalog**       | [artifact][10] | [repository][11] |
+| Target             | Artifact                  |                |                  |
+| :----------------- | :------------------------ | :------------: | :--------------: |
+| Maven Central      | **alexa-skills-tester**   | [artifact][0]  | [repository][1]  |
+| Maven Central      | **hebcal-api**            | [artifact][2]  | [repository][3]  |
+| Docker Hub         | **switcher_webapi**       | [artifact][4]  | [repository][5]  |
+| Docker Hub         | **version-bumper**        | [artifact][12] | [repository][13] |
+| GitHub Marketplace | **version-bumper-action** | [artifact][14] | [repository][15] |
+| PyPi               | **aioswitcher**           | [artifact][6]  | [repository][7]  |
+| Alexa Skills       | **shabbat-times**         | [artifact][8]  | [repository][9]  |
+| JBang              | **jbang-catalog**         | [artifact][10] | [repository][11] |
 
 [0]: https://search.maven.org/artifact/info.tomfi.alexa/alexa-skills-tester
 [1]: https://github.com/TomerFi/alexa-skills-tester
@@ -42,6 +43,8 @@
 [11]: https://github.com/TomerFi/jbang-catalog
 [12]: https://hub.docker.com/r/tomerfi/version-bumper
 [13]: https://github.com/TomerFi/version-bumper
+[14]: https://github.com/marketplace/actions/version-bumper-action
+[15]: https://github.com/TomerFi/version-bumper-action
 
 #### My Latest Dev Community Posts
 
