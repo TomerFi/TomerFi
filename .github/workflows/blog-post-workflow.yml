@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Source checkout
-        uses: actions/checkout@v2.3.5
+        uses: actions/checkout@v2.4.0
 
       - name: Update dev community posts
         uses: gautamkrishnar/blog-post-workflow@1.6.1
