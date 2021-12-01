@@ -5,8 +5,6 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-    reviewers:
-      - "TomerFi"
     assignees:
       - "TomerFi"
     labels:
