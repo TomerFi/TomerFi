@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v2.4.0
 
       - name: Update dev community posts
-        uses: gautamkrishnar/blog-post-workflow@1.6.6
+        uses: gautamkrishnar/blog-post-workflow@1.6.7
         with:
           comment_tag_name: DEVDOTTO
           max_post_count: 20
