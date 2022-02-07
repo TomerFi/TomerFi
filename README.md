@@ -22,8 +22,8 @@
 <h2 align="left">:chart_with_upwards_trend: My Stats</h2>
 
 <p>
-  <img width="430" src="https://github-readme-stats.vercel.app/api?username=TomerFi&theme=nord&show_icons=true&hide_border=true&count_private=true&custom_title" alt="user-stats">
-  <img width="430" src="https://github-readme-streak-stats.herokuapp.com/?user=TomerFi&theme=nord&hide_border=true" alt="user-streak-stats">
+  <img width="415" src="https://github-readme-stats.vercel.app/api?username=TomerFi&theme=nord&show_icons=true&hide_border=true&count_private=true&custom_title" alt="user-stats">
+  <img width="415" src="https://github-readme-streak-stats.herokuapp.com/?user=TomerFi&theme=nord&hide_border=true" alt="user-streak-stats">
 </p>
 
 <h2>:computer: My Code</h2>
@@ -38,9 +38,6 @@
   <a href="https://github.com/TomerFi/tomfi-archetypes">
     <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=tomfi-archetypes&theme=nord&hide_border=true" alt="tomfi-archetypes-stats">
   </a>
-</p>
-
-<p>
   <a href="https://github.com/TomerFi/alexa-skills-tester">
     <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=alexa-skills-tester&theme=nord&hide_border=true" alt="alexa-skills-tester-stats">
   </a>
@@ -50,9 +47,6 @@
   <a href="https://github.com/TomerFi/alexa-skill-shabbat-times">
     <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=alexa-skill-shabbat-times&theme=nord&hide_border=true" alt="alexa-skill-shabbat-times-stats">
   </a>
-</p>
-
-<p>
   <a href="https://github.com/TomerFi/version-bumper">
     <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=version-bumper&theme=nord&hide_border=true" alt="version-bumper-stats">
   </a>
