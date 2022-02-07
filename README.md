@@ -64,7 +64,7 @@
   <tr>
     <td align="center" width="220">
       <a href="https://developers.redhat.com/articles/2022/02/02/protect-secrets-git-cleansmudge-filter">
-        <img src="https://source.unsplash.com/FnA5pAzqhMM" width="100" height="70" alt=""/><br />
+        <img src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/GC-security_2x.png?itok=5tLQDXGH" width="100" height="70" alt=""/><br />
         <sub><b>Protect secrets in Git<br/>with the clean/smudge filter</b></sub>
       </a>
     </td>
