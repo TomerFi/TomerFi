@@ -136,4 +136,4 @@
 </table>
 
 ---
-<p align="left">Made with :heart: for Open-source software. :love_you_gesture:</p>
+<p align="left"><b>Made with :heart: for Open-source software. :love_you_gesture:</b></p>
