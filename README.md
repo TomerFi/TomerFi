@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="left">
-  <h1 align="left">:wave: Hello, I'm Tomer Figenblat</br>
+  <h1 align="left">:wave: Hello, I'm Tomer Figenblat<br/>
     <a href="https://twitter.com/intent/follow?screen_name=realTomFi" target="blank">
       <img align="center" src="https://img.shields.io/badge/-@realTomFi-1DA1F2?style=flat-square&logo=twitter&labelColor=white" alt="twitter"/>
     </a>
@@ -54,6 +54,8 @@
       </a>
     </td>
   </tr>
+</table>
+<table>
   <tr>
     <td align="center">
       <a href="https://github.com/TomerFi/alexa-skills-tester">
@@ -71,6 +73,8 @@
       </a>
     </td>
   </tr>
+</table>
+<table>
   <tr>
     <td align="center">
       <a href="https://github.com/TomerFi/version-bumper">
@@ -97,7 +101,7 @@
     <td align="center">
       <a href="https://developers.redhat.com/articles/2022/02/02/protect-secrets-git-cleansmudge-filter">
         <img src="https://raw.githubusercontent.com/TomerFi/TomerFi/master/images/markus-winkler-L7mCFItGFgc-unsplash.jpg" width="100px;" alt=""/><br />
-        <sub><b>JUnit Pioneer - Frontiers Pushed</b></sub>
+        <sub><b>Protect secrets in Git with the clean/smudge filter</b></sub>
       </a>
     </td>
     <td align="center">
@@ -135,13 +139,13 @@
     <td align="center">
       <a href="https://dev.to/tomerfi/dependency-injection-in-java-is-easy-part-3-leveraging-with-spring-context-gcc">
         <img src="https://raw.githubusercontent.com/TomerFi/TomerFi/master/images/markus-winkler-L7mCFItGFgc-unsplash.jpg" width="100px;" alt=""/><br />
-        <sub><b>Dependency Injection in Java is easy</br>Part 3 - Leveraging with Spring Context</b></sub>
+        <sub><b>Dependency Injection in Java is easy<br/>Part 3 - Spring Context</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://dev.to/tomerfi/dependency-injection-in-java-is-easy-part-2-leveraging-with-google-guice-6i4">
         <img src="https://raw.githubusercontent.com/TomerFi/TomerFi/master/images/markus-winkler-L7mCFItGFgc-unsplash.jpg" width="100px;" alt=""/><br />
-        <sub><b>Dependency Injection in Java is easy</br>Part 2 - Leveraging with Google Guice</b></sub>
+        <sub><b>Dependency Injection in Java is easy<br/>Part 2 - Google Guice</b></sub>
       </a>
     </td>
   </tr>
@@ -149,13 +153,13 @@
     <td align="center">
       <a href="https://dev.to/tomerfi/dependency-injection-in-java-is-easy-part-1-a-mear-design-pattern-2l8">
         <img src="https://raw.githubusercontent.com/TomerFi/TomerFi/master/images/markus-winkler-L7mCFItGFgc-unsplash.jpg" width="100px;" alt=""/><br />
-        <sub><b>Dependency Injection in Java is easy</br>Part 1 - Merely a design pattern</b></sub>
+        <sub><b>Dependency Injection in Java is easy<br/>Part 1 - Merely a design pattern</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://dev.to/tomerfi/experimenting-with-robotframework-and-selenium-4jgc">
         <img src="https://raw.githubusercontent.com/TomerFi/TomerFi/master/images/markus-winkler-L7mCFItGFgc-unsplash.jpg" width="100px;" alt=""/><br />
-        <sub><b>Experimenting with RobotFramework and Selenium</b></sub>
+        <sub><b>Experimenting with RobotFramework<br/>and Selenium</b></sub>
       </a>
     </td>
     <td align="center">
@@ -168,4 +172,4 @@
 </table>
 
 ---
-<p align="left">Made with :heart: for Open-source software.</br>:love_you_gesture:</p>
+<p align="left">Made with :heart: for Open-source software.<br/>:love_you_gesture:</p>
