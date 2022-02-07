@@ -64,25 +64,25 @@
   <tr>
     <td align="center" width="220">
       <a href="https://developers.redhat.com/articles/2022/02/02/protect-secrets-git-cleansmudge-filter">
-        <img src="https://raw.githubusercontent.com/TomerFi/TomerFi/master/images/markus-winkler-L7mCFItGFgc-unsplash.jpg" width="100px;" alt=""/><br />
+        <img src="https://source.unsplash.com/FnA5pAzqhMM" width="100" height="70" alt=""/><br />
         <sub><b>Protect secrets in Git<br/>with the clean/smudge filter</b></sub>
       </a>
     </td>
     <td align="center" width="220">
       <a href="https://dev.to/tomerfi/junit-pioneer-frontiers-pushed-3jh7">
-        <img src="https://raw.githubusercontent.com/TomerFi/TomerFi/master/images/markus-winkler-L7mCFItGFgc-unsplash.jpg" width="100px;" alt=""/><br />
+        <img src="https://source.unsplash.com/E0AHdsENmDg" width="100" height="70" alt=""/><br />
         <sub><b>JUnit Pioneer<br/>Frontiers Pushed</b></sub>
       </a>
     </td>
     <td align="center" width="220">
       <a href="https://dev.to/tomerfi/property-based-matrix-testing-in-java-47p4">
-        <img src="https://raw.githubusercontent.com/TomerFi/TomerFi/master/images/markus-winkler-L7mCFItGFgc-unsplash.jpg" width="100px;" alt=""/><br />
+        <img src="https://source.unsplash.com/EWLHA4T-mso" width="100" height="70" alt=""/><br />
         <sub><b>Property-Based Matrix<br/>Testing in Java</b></sub>
       </a>
     </td>
     <td align="center" width="220">
       <a href="https://dev.to/tomerfi/alexa-skills-testing-4pfd">
-        <img src="https://raw.githubusercontent.com/TomerFi/TomerFi/master/images/markus-winkler-L7mCFItGFgc-unsplash.jpg" width="100px;" alt=""/><br />
+        <img src="https://source.unsplash.com/k1osF_h2fzA" width="100" height="70" alt=""/><br />
         <sub><b>Alexa Skills<br/>Testing</b></sub>
       </a>
     </td>
@@ -90,25 +90,25 @@
   <tr>
     <td align="center" width="220">
       <a href="https://dev.to/tomerfi/jpms-migration-playground-a94">
-        <img src="https://raw.githubusercontent.com/TomerFi/TomerFi/master/images/markus-winkler-L7mCFItGFgc-unsplash.jpg" width="100px;" alt=""/><br />
+        <img src="https://source.unsplash.com/B-x4VaIriRc" width="100" height="70" alt=""/><br />
         <sub><b>JPMS Migration<br/>Playground</b></sub>
       </a>
     </td>
     <td align="center" width="220">
       <a href="https://dev.to/tomerfi/my-ultimate-development-dockerfile-4hg1">
-        <img src="https://raw.githubusercontent.com/TomerFi/TomerFi/master/images/markus-winkler-L7mCFItGFgc-unsplash.jpg" width="100px;" alt=""/><br />
+        <img src="https://source.unsplash.com/tjX_sniNzgQ" width="100" height="70" alt=""/><br />
         <sub><b>My Ultimate Development<br/>Dockerfile</b></sub>
       </a>
     </td>
     <td align="center" width="220">
       <a href="https://dev.to/tomerfi/dependency-injection-in-java-is-easy-part-3-leveraging-with-spring-context-gcc">
-        <img src="https://raw.githubusercontent.com/TomerFi/TomerFi/master/images/markus-winkler-L7mCFItGFgc-unsplash.jpg" width="100px;" alt=""/><br />
+        <img src="https://source.unsplash.com/AaEQmoufHLk" width="100" height="70" alt=""/><br />
         <sub><b>DI in Java is easy<br/>Part 3: Spring Context</b></sub>
       </a>
     </td>
     <td align="center" width="220">
       <a href="https://dev.to/tomerfi/dependency-injection-in-java-is-easy-part-2-leveraging-with-google-guice-6i4">
-        <img src="https://raw.githubusercontent.com/TomerFi/TomerFi/master/images/markus-winkler-L7mCFItGFgc-unsplash.jpg" width="100px;" alt=""/><br />
+        <img src="https://source.unsplash.com/ieic5Tq8YMk" width="100" height="70" alt=""/><br />
         <sub><b>DI in Java is easy<br/>Part 2: Google Guice</b></sub>
       </a>
     </td>
@@ -116,19 +116,19 @@
   <tr>
     <td align="center" width="220">
       <a href="https://dev.to/tomerfi/dependency-injection-in-java-is-easy-part-1-a-mear-design-pattern-2l8">
-        <img src="https://raw.githubusercontent.com/TomerFi/TomerFi/master/images/markus-winkler-L7mCFItGFgc-unsplash.jpg" width="100px;" alt=""/><br />
+        <img src="https://source.unsplash.com/_SgRNwAVNKw" width="100" height="70" alt=""/><br />
         <sub><b>DI in Java is easy<br/>Part 1: Merely a design pattern</b></sub>
       </a>
     </td>
     <td align="center" width="220">
       <a href="https://dev.to/tomerfi/experimenting-with-robotframework-and-selenium-4jgc">
-        <img src="https://raw.githubusercontent.com/TomerFi/TomerFi/master/images/markus-winkler-L7mCFItGFgc-unsplash.jpg" width="100px;" alt=""/><br />
+        <img src="https://source.unsplash.com/5L0R8ZqPZHk" width="100" height="70" alt=""/><br />
         <sub><b>Experimenting with<br/>RobotFramework and Selenium</b></sub>
       </a>
     </td>
     <td align="center" width="220">
       <a href="https://dev.to/tomerfi/groovying-with-java-59hp">
-        <img src="https://raw.githubusercontent.com/TomerFi/TomerFi/master/images/markus-winkler-L7mCFItGFgc-unsplash.jpg" width="100px;" alt=""/><br />
+        <img src="https://source.unsplash.com/WrYAR-yDwe8" width="100" height="70" alt=""/><br />
         <sub><b>Groovying<br/>with Java</b></sub>
       </a>
     </td>
@@ -136,4 +136,4 @@
 </table>
 
 ---
-<p align="left">Made with :heart: for Open-source software.<br/>:love_you_gesture:</p>
+<p align="left">Made with :heart: for Open-source software. :love_you_gesture:</p>
