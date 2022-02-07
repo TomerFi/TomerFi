@@ -22,8 +22,8 @@
 <h2 align="left">:chart_with_upwards_trend: My Stats</h2>
 
 <p>
-  <img width="415" src="https://github-readme-stats.vercel.app/api?username=TomerFi&theme=nord&show_icons=true&hide_border=true&count_private=true&custom_title" alt="user-stats">
-  <img width="415" src="https://github-readme-streak-stats.herokuapp.com/?user=TomerFi&theme=nord&hide_border=true" alt="user-streak-stats">
+  <img width="410" src="https://github-readme-stats.vercel.app/api?username=TomerFi&theme=nord&show_icons=true&hide_border=true&count_private=true&custom_title" alt="user-stats">
+  <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=TomerFi&theme=nord&hide_border=true" alt="user-streak-stats">
 </p>
 
 <h2>:computer: My Code</h2>
