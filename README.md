@@ -2,19 +2,19 @@
 <p align="left">
   <h1 align="left">Hey there :wave: I'm Tomer<br/>
     <a href="https://twitter.com/intent/follow?screen_name=realTomFi" target="blank">
-      <img align="center" src="https://img.shields.io/badge/-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="twitter" width="35" height="25" logoWidth="35"/>
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40"/>
     </a>
     <a href="https://www.linkedin.com/in/tomerfi" target="blank">
-      <img align="center" src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin" alt="linkedin" width="35" height="25" logoWidth="35"/>
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40"/>
     </a>
     <a href="https://dev.to/tomerfi" target="blank">
-      <img align="center" src="https://img.shields.io/badge/-0A0A0A?style=flat-square&logo=dev.to" alt="devdotto" width="35" height="25" logoWidth="35"/>
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="devdotto" height="40"/>
     </a>
     <a href="https://developers.redhat.com/author/tomerfi" target="blank">
-      <img align="center" src="https://img.shields.io/badge/-EE0000?style=flat-square&logo=redhat" alt="rhdeveloper" width="35" height="25" logoWidth="35"/>
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redhat.svg" alt="rhdeveloper" height="40"/>
     </a>
     <a href="https://discordapp.com/users/851889326588690432/" target="blank">
-      <img align="center" src="https://img.shields.io/badge/-5865F2?style=flat-square&logo=discord&logoColor=2C2F33" alt="discord" width="35" height="25" logoWidth="35"/>
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" height="40"/>
     </a>
   </h1>
 </p>
