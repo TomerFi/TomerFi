@@ -2,10 +2,10 @@
 <p align="left">
   <h1 align="left">Hey there :wave: I'm Tomer<br/>
     <a href="https://twitter.com/intent/follow?screen_name=realTomFi" target="blank">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40"/>
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="35" width="35"/>
     </a>
     <a href="https://www.linkedin.com/in/tomerfi" target="blank">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40"/>
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30"/>
     </a>
     <a href="https://dev.to/tomerfi" target="blank">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="devdotto" height="40"/>
@@ -14,7 +14,7 @@
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redhat.svg" alt="rhdeveloper" height="40"/>
     </a>
     <a href="https://discordapp.com/users/851889326588690432/" target="blank">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" height="40"/>
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" height="35" width="35"/>
     </a>
   </h1>
 </p>
