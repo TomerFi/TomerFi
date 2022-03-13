@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041 -->
-<p align="left">
-  <h1 align="left">Hey there :wave: I'm Tomer<br/>
+<p align="center">
+  <h1 align="center">Hey there :wave: I'm Tomer<br/>
     <a href="https://twitter.com/intent/follow?screen_name=realTomFi" target="blank">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="35" width="35"/>
     </a>
@@ -19,9 +19,15 @@
   </h1>
 </p>
 
-<h2 align="left">:chart_with_upwards_trend: My Stats</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,go,git,docker,kubernetes,linux,vscode&theme=dark" />
+  </a>
+</p>
 
-<p>
+<h2 align="center">:chart_with_upwards_trend: My Stats</h2>
+
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="410" src="https://github-readme-stats.vercel.app/api?username=TomerFi&theme=nord&show_icons=true&hide_border=true&count_private=true&custom_title" alt="user-stats">
   </a>
@@ -30,9 +36,9 @@
   </a>
 </p>
 
-<h2>:computer: My Code</h2>
+<h2 align="center">:computer: My Code</h2>
 
-<p>
+<p align="center">
   <a href="https://github.com/TomerFi/aioswitcher">
     <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=aioswitcher&theme=nord&hide_border=true" alt="aioswitcher-stats">
   </a>
@@ -62,9 +68,9 @@
   </a>
 </p>
 
-<h2 align="left">:pencil: My Articles</h2>
+<h2 align="center">:pencil: My Articles</h2>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="220">
       <a href="https://developers.redhat.com/articles/2022/02/02/protect-secrets-git-cleansmudge-filter">
@@ -140,4 +146,4 @@
 </table>
 
 ---
-<p align="left"><b>Made with :heart: for Open-source software. :love_you_gesture:</b></p>
+<p align="center"><b>Made with :heart: for Open-source software. :love_you_gesture:</b></p>
