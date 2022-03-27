@@ -1,6 +1,10 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-  <h1 align="center">Hey there :wave: I'm Tomer<br/>
+  <h1 align="center">
+    <a href="https://git.io/typing-svg" target="blank">
+      <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Anton&size=30&duration=4000&color=CE8EF7&center=true&lines=Hey+there;I%27m+Tomer...;Nice+to+meet+you!" />
+    </a>
+    <br/>
     <a href="https://twitter.com/intent/follow?screen_name=realTomFi" target="blank">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="35" width="35"/>
     </a>
