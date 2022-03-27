@@ -151,6 +151,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=9A1E1EFF&height=10&section=header"/><br/>
   <a href="https://git.io/typing-svg" target="blank">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Anton&size=20&duration=8000&color=9A1E1EFF&center=true&lines=Made+with+💟+for+Open-source-software.+🤟"/>
+    <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Anton&size=20&duration=8000&color=9A1E1EFF&center=true&lines=Made+with+💟+for+Open-source+software.+🤟"/>
   </a>
 </p>
