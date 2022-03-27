@@ -2,7 +2,7 @@
 <p align="center">
   <h1 align="center">
     <a href="https://git.io/typing-svg" target="blank">
-      <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Anton&size=30&duration=4000&color=CE8EF7&center=true&lines=Hey+there;I%27m+Tomer...;Nice+to+meet+you!" />
+      <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Anton&size=30&duration=4000&color=9A1E1EFF&center=true&lines=Hey+there;I%27m+Tomer...;Nice+to+meet+you!" />
     </a>
     <br/>
     <a href="https://twitter.com/intent/follow?screen_name=realTomFi" target="blank">
