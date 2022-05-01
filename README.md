@@ -66,8 +66,8 @@
   <a href="https://github.com/TomerFi/version-bumper-action">
     <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=version-bumper-action&theme=nord&hide_border=true" alt="version-bumper-action-stats">
   </a>
-  <a href="https://github.com/TomerFi/jbang-catalog">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=jbang-catalog&theme=nord&hide_border=true" alt="jbang-catalog-stats">
+  <a href="https://github.com/TomerFi/auto-me-bot">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=auto-me-bot&theme=nord&hide_border=true" alt="auto-me-bot-stats">
   </a>
 </p>
 
