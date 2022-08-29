@@ -74,6 +74,15 @@
   <a href="https://github.com/TomerFi/alexa-skill-shabbat-times">
     <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=alexa-skill-shabbat-times&theme=swift&hide_border=true" alt="alexa-skill-shabbat-times-stats">
   </a>
+  <a href="https://github.com/TomerFi/jbang-catalog">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=jbang-catalog&theme=swift&hide_border=true" alt="jbang-catalog-stats">
+  </a>
+  <a href="https://github.com/TomerFi/.github">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=.github&theme=swift&hide_border=true" alt="dotgithub-stats">
+  </a>
+  <a href="https://github.com/TomerFi/github-management-scripts">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=github-management-scripts&theme=swift&hide_border=true" alt="github-management-scripts-stats">
+  </a>
 </p>
 
 <h2 align="center">:pencil: My Articles</h2>
