@@ -30,7 +30,7 @@
 
 <p align="center"><b>
   :handshake: Want to collaborate with me? :handshake:</br>
-  Click <a href=https://github.com/search?q=label%3A%22Help+Wanted%22+%40TomerFi&state=open&type=Issues>here</a> to see open issues up for grabs.
+  Click <a href=https://github.com/search?p=1&q=label%3A%22help+wanted%22%2C%22good+first+issue%22%2C%22hacktoberfest%22+%40TomerFi&state=open&type=Issues>here</a> to see open issues up for grabs.
 </b></p>
 
 <h2 align="center" border-bottom: none>:chart_with_upwards_trend: My Stats</h2>
