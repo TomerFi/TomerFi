@@ -68,8 +68,8 @@
   <a href="https://github.com/TomerFi/alexa-skills-tester">
     <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=alexa-skills-tester&theme=swift&hide_border=true" alt="alexa-skills-tester-stats">
   </a>
-  <a href="https://github.com/TomerFi/hebcal-api">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=hebcal-api&theme=swift&hide_border=true" alt="hebcal-api-stats">
+  <a href="https://github.com/TomerFi/shabbat-api">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=shabbat-api&theme=swift&hide_border=true" alt="shabbat-api-stats">
   </a>
   <a href="https://github.com/TomerFi/alexa-skill-shabbat-times">
     <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=alexa-skill-shabbat-times&theme=swift&hide_border=true" alt="alexa-skill-shabbat-times-stats">
