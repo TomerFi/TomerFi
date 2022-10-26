@@ -16,9 +16,6 @@
   <a href="https://developers.redhat.com/author/tomerfi" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redhat.svg" alt="rhdeveloper" height="40"/>
   </a>
-  <a href="https://discordapp.com/users/851889326588690432/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" height="35" width="35"/>
-  </a>
   <img src="https://capsule-render.vercel.app/api?type=slice&color=9A1E1EFF&height=10&section=header" />
 </p>
 
