@@ -1,4 +1,3 @@
-<!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
   <a href="https://git.io/typing-svg" target="blank">
     <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Anton&size=30&duration=4000&color=9A1E1EFF&center=true&lines=Hey+there+👋;I%27m+Tomer...;Nice+to+meet+you!"/>
@@ -33,12 +32,31 @@
 <h2 align="center" border-bottom: none>:chart_with_upwards_trend: My Stats</h2>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="410" src="https://github-readme-stats.vercel.app/api?username=TomerFi&theme=swift&show_icons=true&hide_border=true&count_private=true&custom_title" alt="user-stats">
-  </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=TomerFi&theme=swift&hide_border=true" alt="user-streak-stats">
-  </a>
+
+<!--START OF STATS-->
+
+```json
+{
+  "name": "Tomer Figenblat",
+  "contributionsCollection": {
+    "contributionCalendar": {
+      "totalContributions": 10158
+    },
+    "totalCommitContributions": 7509,
+    "totalIssueContributions": 109,
+    "totalPullRequestContributions": 371,
+    "totalPullRequestReviewContributions": 645,
+    "totalRepositoriesWithContributedCommits": 202,
+    "totalRepositoriesWithContributedIssues": 51,
+    "totalRepositoriesWithContributedPullRequestReviews": 39,
+    "totalRepositoriesWithContributedPullRequests": 97,
+    "totalRepositoryContributions": 131
+  }
+}
+```
+
+<!--END OF STATS-->
+
 </p>
 
 <h2 align="center">:computer: My Code</h2>

@@ -1,0 +1,52 @@
+name: Update statistics
+
+on:
+  workflow_dispatch:
+  schedule:
+    # run every day at 02:00
+    - cron: '0 2 * * *'
+
+jobs:
+  update-statistics:
+    runs-on: ubuntu-latest
+    name: Update README Statistics
+    environment: update-statistics
+    steps:
+      - name: Checkout sources
+        uses: actions/checkout@v3.2.0
+        with:
+          ssh-key: ${{ secrets.DEPLOY_KEY }}
+
+      - name: Configure git
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+
+      - name: Install node 16
+        uses: actions/setup-node@v3.5.1
+        with:
+          node-version: '16'
+
+      - name: Grab my statistics
+        env:
+          GITHUB_TOKEN: ${{ secrets.STATISTICS_TOKEN }}
+        run: >
+          printf "\n\`\`\`json\n" > my_stats
+          && npx github-viewer-stats -y >> my_stats
+          && printf "\`\`\`\n\n" >> my_stats
+
+      - name: Update README
+        run: |
+          sed -i -ne '/<!--START OF STATS-->/ {p; r my_stats' -e ':a; n; /<!--END OF STATS-->/ {p; b}; ba}; p' README.md
+
+      - name: Check for README diff
+        id: got_diff
+        continue-on-error: true # exits non zero if diff found
+        run: git diff -s --exit-code README.me
+
+      - name: Commit and push README
+        if: steps.got_diff.outcome == 'failure' # failure means found diff
+        run: |
+          git add README.md
+          git commit -m "docs: updated README with new stats [skip ci]"
+          git push
