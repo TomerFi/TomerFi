@@ -38,19 +38,22 @@
 ```json
 {
   "name": "Tomer Figenblat",
+  "company": "Red Hat",
+  "status": "pr is coming",
+  "contributingSince": 2017,
+  "totalContributions": 10175,
   "contributionsCollection": {
-    "contributionCalendar": {
-      "totalContributions": 10169
-    },
-    "totalCommitContributions": 7520,
+    "totalCommitContributions": 7525,
     "totalIssueContributions": 109,
-    "totalPullRequestContributions": 371,
+    "totalPullRequestContributions": 372,
     "totalPullRequestReviewContributions": 645,
     "totalRepositoriesWithContributedCommits": 202,
     "totalRepositoriesWithContributedIssues": 51,
     "totalRepositoriesWithContributedPullRequestReviews": 39,
-    "totalRepositoriesWithContributedPullRequests": 97,
-    "totalRepositoryContributions": 131
+    "totalRepositoriesWithContributedPullRequests": 98,
+    "totalRepositoryContributions": 131,
+    "totalGistContributions": 7,
+    "totalDiscussionContributions": 80
   }
 }
 ```
