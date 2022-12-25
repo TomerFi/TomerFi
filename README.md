@@ -29,8 +29,6 @@
   Click <a href=https://github.com/search?p=1&q=label%3A%22help+wanted%22%2C%22good+first+issue%22%2C%22hacktoberfest%22+%40TomerFi&state=open&type=Issues>here</a> to see open issues up for grabs.
 </b></p>
 
-<h2 align="center" border-bottom: none>:chart_with_upwards_trend: My Stats</h2>
-
 <p align="center">
 
 <!--START OF STATS-->
@@ -84,14 +82,14 @@
   <a href="https://github.com/TomerFi/auto-me-bot">
     <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=auto-me-bot&theme=swift&hide_border=true" alt="auto-me-bot-stats">
   </a>
+  <a href="https://github.com/TomerFi/github-viewer-stats">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=github-viewer-stats&theme=swift&hide_border=true" alt="github-viewer-stats-stats">
+  </a>
   <a href="https://github.com/TomerFi/alexa-skills-tester">
     <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=alexa-skills-tester&theme=swift&hide_border=true" alt="alexa-skills-tester-stats">
   </a>
   <a href="https://github.com/TomerFi/shabbat-api">
     <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=shabbat-api&theme=swift&hide_border=true" alt="shabbat-api-stats">
-  </a>
-  <a href="https://github.com/TomerFi/alexa-skill-shabbat-times">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=alexa-skill-shabbat-times&theme=swift&hide_border=true" alt="alexa-skill-shabbat-times-stats">
   </a>
 </p>
 
@@ -118,7 +116,8 @@
       </a>
     </td>
     <td align="center" width="220">
-      <a href="https://dev.to/tomerfi/alexa-skills-testing-4pfd">
+      <a href="https://dev.to/tomerfi/
+               -skills-testing-4pfd">
         <img src="https://source.unsplash.com/k1osF_h2fzA" width="100" height="70" alt=""/><br />
         <sub><b>Alexa Skills<br/>Testing</b></sub>
       </a>
