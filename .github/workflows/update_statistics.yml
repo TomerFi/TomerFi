@@ -31,7 +31,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.STATISTICS_TOKEN }}
         run: >
           printf "\n\`\`\`json\n" > my_stats
-          && npx github-viewer-stats -y >> my_stats
+          && npx -y github-viewer-stats >> my_stats
           && printf "\`\`\`\n\n" >> my_stats
 
       - name: Update README
