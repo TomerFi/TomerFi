@@ -41,19 +41,20 @@
   "company": "Red Hat",
   "status": "pr is coming",
   "contributingSince": 2017,
-  "totalContributions": 10175,
+  "totalContributions": 10182,
   "contributionsCollection": {
-    "totalCommitContributions": 7525,
+    "totalCommitContributions": 7531,
     "totalIssueContributions": 109,
-    "totalPullRequestContributions": 372,
+    "totalPullRequestContributions": 373,
     "totalPullRequestReviewContributions": 645,
     "totalRepositoriesWithContributedCommits": 202,
     "totalRepositoriesWithContributedIssues": 51,
     "totalRepositoriesWithContributedPullRequestReviews": 39,
     "totalRepositoriesWithContributedPullRequests": 98,
     "totalRepositoryContributions": 131,
+    "totalDiscussionContributions": 80,
     "totalGistContributions": 7,
-    "totalDiscussionContributions": 80
+    "totalPackageContributions": 0
   }
 }
 ```
