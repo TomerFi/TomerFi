@@ -79,7 +79,7 @@
     <td align="center" width="220">
       <a href="https://developers.redhat.com/articles/2023/01/16/how-prevent-computer-overload-remote-kind-clusters">
         <img src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/2020_Kubernetes_Shared_image_A%20%282%29.png?itok=ZQSD_vps" width="100" height="70" alt=""/><br />
-        <sub><b>Prevent computer overload<br/>with remote kind clusters</b></sub>
+        <sub><b>Prevent overload<br/>with remote kind clusters</b></sub>
       </a>
     </td>
     <td align="center" width="220">
@@ -100,6 +100,8 @@
         <sub><b>Property-Based Matrix<br/>Testing in Java</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="220">
       <a href="https://dev.to/tomerfi/
                -skills-testing-4pfd">
@@ -107,8 +109,6 @@
         <sub><b>Alexa Skills<br/>Testing</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="220">
       <a href="https://dev.to/tomerfi/jpms-migration-playground-a94">
         <img src="https://source.unsplash.com/B-x4VaIriRc" width="100" height="70" alt=""/><br />
@@ -127,14 +127,14 @@
         <sub><b>DI in Java is easy<br/>Part 3: Spring Context</b></sub>
       </a>
     </td>
-    <td align="center" width="220">
+  </tr>
+  <tr>
+  <td align="center" width="220">
       <a href="https://dev.to/tomerfi/dependency-injection-in-java-is-easy-part-2-leveraging-with-google-guice-6i4">
         <img src="https://source.unsplash.com/ieic5Tq8YMk" width="100" height="70" alt=""/><br />
         <sub><b>DI in Java is easy<br/>Part 2: Google Guice</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="220">
       <a href="https://dev.to/tomerfi/dependency-injection-in-java-is-easy-part-1-a-mear-design-pattern-2l8">
         <img src="https://source.unsplash.com/_SgRNwAVNKw" width="100" height="70" alt=""/><br />
