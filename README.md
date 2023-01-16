@@ -77,6 +77,12 @@
 <table align="center">
   <tr>
     <td align="center" width="220">
+      <a href="https://developers.redhat.com/articles/2023/01/16/how-prevent-computer-overload-remote-kind-clusters">
+        <img src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/2020_Kubernetes_Shared_image_A%20%282%29.png?itok=ZQSD_vps" width="100" height="70" alt=""/><br />
+        <sub><b>Prevent computer overload<br/>with remote kind clusters</b></sub>
+      </a>
+    </td>
+    <td align="center" width="220">
       <a href="https://developers.redhat.com/articles/2022/02/02/protect-secrets-git-cleansmudge-filter">
         <img src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/GC-security_2x.png?itok=5tLQDXGH" width="100" height="70" alt=""/><br />
         <sub><b>Protect secrets in Git<br/>with the clean/smudge filter</b></sub>
