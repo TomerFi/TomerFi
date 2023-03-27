@@ -29,16 +29,35 @@
   Click <a href=https://github.com/search?p=1&q=label%3A%22help+wanted%22%2C%22good+first+issue%22%2C%22hacktoberfest%22+%40TomerFi&state=open&type=Issues>here</a> to see open issues up for grabs.
 </b></p>
 
-<h2 align="center" border-bottom: none>:chart_with_upwards_trend: My Stats</h2>
-
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="410" src="https://github-readme-stats.vercel.app/api?username=TomerFi&theme=swift&show_icons=true&hide_border=true&count_private=true&custom_title" alt="user-stats">
-  </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=TomerFi&theme=swift&hide_border=true" alt="user-streak-stats">
-  </a>
-</p>
+
+<!--START OF STATS-->
+
+```json
+{
+  "name": "Tomer Figenblat",
+  "company": "Red Hat",
+  "status": "pr is coming",
+  "contributingSince": 2017,
+  "totalContributions": 10329,
+  "contributionsCollection": {
+    "totalCommitContributions": 7601,
+    "totalIssueContributions": 114,
+    "totalPullRequestContributions": 383,
+    "totalPullRequestReviewContributions": 707,
+    "totalRepositoriesWithContributedCommits": 204,
+    "totalRepositoriesWithContributedIssues": 52,
+    "totalRepositoriesWithContributedPullRequestReviews": 40,
+    "totalRepositoriesWithContributedPullRequests": 98,
+    "totalRepositoryContributions": 131,
+    "totalDiscussionContributions": 80,
+    "totalGistContributions": 7,
+    "totalPackageContributions": 0
+  }
+}
+```
+
+<!--END OF STATS-->
 
 <h2 align="center">:computer: My Code</h2>
 
