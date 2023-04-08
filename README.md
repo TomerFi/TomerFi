@@ -3,9 +3,6 @@
     <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Anton&size=30&duration=4000&color=9A1E1EFF&center=true&lines=Hey+there+👋;I%27m+Tomer...;Nice+to+meet+you!"/>
   </a>
   <br/>
-  <a href="https://twitter.com/intent/follow?screen_name=realTomFi" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="35" width="35"/>
-  </a>
   <a href="https://www.linkedin.com/in/tomerfi" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30"/>
   </a>
@@ -15,6 +12,7 @@
   <a href="https://developers.redhat.com/author/tomerfi" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redhat.svg" alt="rhdeveloper" height="40"/>
   </a>
+  <br/>
   <img src="https://capsule-render.vercel.app/api?type=slice&color=9A1E1EFF&height=10&section=header" />
 </p>
 
