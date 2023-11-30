@@ -37,9 +37,9 @@
   "company": "Red Hat",
   "status": "pr is coming",
   "contributingSince": 2017,
-  "totalContributions": 12942,
+  "totalContributions": 12944,
   "contributionsCollection": {
-    "totalCommitContributions": 8858,
+    "totalCommitContributions": 8860,
     "totalIssueContributions": 135,
     "totalPullRequestContributions": 587,
     "totalPullRequestReviewContributions": 1817,
