@@ -92,7 +92,14 @@
 <h2 align="center">:pencil: My Articles</h2>
 
 <table align="center">
+  <!-- First row starts here -->
   <tr>
+    <td align="center" width="220">
+      <a href="https://developers.redhat.com/articles/2024/01/29/developers-guide-kubernetes-operators">
+        <img src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/2020_Kubernetes_Shared_image_A%20%282%29.png?itok=ZQSD_vps" width="100" height="70" alt=""/><br />
+        <sub><b>The developer's guide to Kubernetes Operators</b></sub>
+      </a>
+    </td>
     <td align="center" width="220">
       <a href="https://developers.redhat.com/articles/2023/01/19/how-distribute-workloads-using-open-cluster-management">
         <img src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/2020_Kubernetes_Shared_image_A%20%282%29.png?itok=ZQSD_vps" width="100" height="70" alt=""/><br />
@@ -111,14 +118,15 @@
         <sub><b>Protect secrets in Git<br/>with the clean/smudge filter</b></sub>
       </a>
     </td>
+  </tr>
+  <!-- Second row starts here -->
+  <tr>
     <td align="center" width="220">
       <a href="https://dev.to/tomerfi/junit-pioneer-frontiers-pushed-3jh7">
         <img src="https://source.unsplash.com/E0AHdsENmDg" width="100" height="70" alt=""/><br />
         <sub><b>JUnit Pioneer<br/>Frontiers Pushed</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="220">
       <a href="https://dev.to/tomerfi/property-based-matrix-testing-in-java-47p4">
         <img src="https://source.unsplash.com/EWLHA4T-mso" width="100" height="70" alt=""/><br />
@@ -138,14 +146,15 @@
         <sub><b>JPMS Migration<br/>Playground</b></sub>
       </a>
     </td>
+  </tr>
+  <!-- Third row starts here -->
+  <tr>
     <td align="center" width="220">
       <a href="https://dev.to/tomerfi/my-ultimate-development-dockerfile-4hg1">
         <img src="https://source.unsplash.com/tjX_sniNzgQ" width="100" height="70" alt=""/><br />
         <sub><b>My Ultimate Development<br/>Dockerfile</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="220">
       <a href="https://dev.to/tomerfi/dependency-injection-in-java-is-easy-part-3-leveraging-with-spring-context-gcc">
         <img src="https://source.unsplash.com/AaEQmoufHLk" width="100" height="70" alt=""/><br />
@@ -164,14 +173,15 @@
         <sub><b>DI in Java is easy<br/>Part 1: Merely a design pattern</b></sub>
       </a>
     </td>
+  </tr>
+  <!-- Fourth row starts here -->
+  <tr>
     <td align="center" width="220">
       <a href="https://dev.to/tomerfi/experimenting-with-robotframework-and-selenium-4jgc">
         <img src="https://source.unsplash.com/5L0R8ZqPZHk" width="100" height="70" alt=""/><br />
         <sub><b>Experimenting with<br/>RobotFramework and Selenium</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="220">
       <a href="https://dev.to/tomerfi/groovying-with-java-59hp">
         <img src="https://source.unsplash.com/WrYAR-yDwe8" width="100" height="70" alt=""/><br />
