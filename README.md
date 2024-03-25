@@ -26,33 +26,42 @@
 
 <!--END OF STATS-->
 
-<div align="left">
-  <a href="https://github.com/TomerFi/aioswitcher">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=aioswitcher&theme=swift&hide_border=true" alt="aioswitcher-stats">
-  </a>
-  <a href="https://github.com/TomerFi/switcher_webapi">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=switcher_webapi&theme=swift&hide_border=true" alt="switcher_webapi-stats">
-  </a>
-  <a href="https://github.com/TomerFi/auto-me-bot">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=auto-me-bot&theme=swift&hide_border=true" alt="auto-me-bot-stats">
-  </a>
-  <a href="https://github.com/TomerFi/version-bumper">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=version-bumper&theme=swift&hide_border=true" alt="version-bumper-stats">
-  </a>
-  <a href="https://github.com/TomerFi/version-bumper-action">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=version-bumper-action&theme=swift&hide_border=true" alt="version-bumper-action-stats">
-  </a>
-  <a href="https://github.com/TomerFi/github-viewer-stats">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=github-viewer-stats&theme=swift&hide_border=true" alt="github-viewer-stats-stats">
-  </a>
-  <a href="https://github.com/TomerFi/tomfi-archetypes">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=tomfi-archetypes&theme=swift&hide_border=true" alt="tomfi-archetypes-stats">
-  </a>
-  <a href="https://github.com/TomerFi/shabbat-api">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=shabbat-api&theme=swift&hide_border=true" alt="shabbat-api-stats">
-  </a>
-</div>
+<div>
 
+<a href="https://github.com/TomerFi/aioswitcher">
+<img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=aioswitcher&theme=swift&hide_border=true" alt="aioswitcher-stats">
+</a>
+
+<a href="https://github.com/TomerFi/switcher_webapi">
+<img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=switcher_webapi&theme=swift&hide_border=true" alt="switcher_webapi-stats">
+</a>
+
+<a href="https://github.com/TomerFi/auto-me-bot">
+<img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=auto-me-bot&theme=swift&hide_border=true" alt="auto-me-bot-stats">
+</a>
+
+<a href="https://github.com/TomerFi/version-bumper">
+<img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=version-bumper&theme=swift&hide_border=true" alt="version-bumper-stats">
+</a>
+
+<a href="https://github.com/TomerFi/version-bumper-action">
+<img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=version-bumper-action&theme=swift&hide_border=true" alt="version-bumper-action-stats">
+</a>
+
+<a href="https://github.com/TomerFi/github-viewer-stats">
+<img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=github-viewer-stats&theme=swift&hide_border=true" alt="github-viewer-stats-stats">
+</a>
+
+<a href="https://github.com/TomerFi/tomfi-archetypes">
+<img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=tomfi-archetypes&theme=swift&hide_border=true" alt="tomfi-archetypes-stats">
+</a>
+
+<a href="https://github.com/TomerFi/shabbat-api">
+<img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=shabbat-api&theme=swift&hide_border=true" alt="shabbat-api-stats">
+</a>
+
+</div>
+<br/>
 <table>
 
 <tr>
