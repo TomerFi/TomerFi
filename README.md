@@ -52,14 +52,6 @@
 <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=github-viewer-stats&theme=swift&hide_border=true" alt="github-viewer-stats-stats">
 </a>
 
-<a href="https://github.com/TomerFi/tomfi-archetypes">
-<img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=tomfi-archetypes&theme=swift&hide_border=true" alt="tomfi-archetypes-stats">
-</a>
-
-<a href="https://github.com/TomerFi/shabbat-api">
-<img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TomerFi&repo=shabbat-api&theme=swift&hide_border=true" alt="shabbat-api-stats">
-</a>
-
 </div>
 <br/>
 <table>
