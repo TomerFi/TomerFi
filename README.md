@@ -57,6 +57,11 @@
 <table>
 
 <tr>
+<td><a href="https://developers.redhat.com/articles/2024/11/12/generative-ai-nvidia-nim-openshift-ai">Deliver generative AI at scale with NVIDIA NIM on OpenShift AI</a></td>
+<td><a href="https://skillicons.dev"><img alt="skills" src="https://skillicons.dev/icons?i=openshift,redhat"/></a></td>
+</tr>
+
+<tr>
 <td><a href="https://developers.redhat.com/articles/2024/01/29/developers-guide-kubernetes-operators">The developer's guide to Kubernetes Operators</a></td>
 <td><a href="https://skillicons.dev"><img alt="skills" src="https://skillicons.dev/icons?i=kubernetes,go,redhat"/></a></td>
 </tr>
