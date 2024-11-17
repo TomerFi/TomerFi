@@ -1,4 +1,4 @@
-<h2>Maintained projects</h2>
+## Maintained projects
 
 <div>
 
@@ -27,8 +27,6 @@
 </a>
 
 </div>
-
-<br/>
 
 ## Blog posts
 
