@@ -20,6 +20,7 @@ Open Cluster Management (OCM) was accepted to the Cloud Native Computing Foundat
 
 <details>
 <summary><strong>Click for older blog posts!</strong></summary>
+<br/>
 
 **Prevent overload with remote kind clusters (January 16, 2023)**
 <br/>
