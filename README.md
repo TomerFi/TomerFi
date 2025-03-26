@@ -1,8 +1,8 @@
 ## Blog posts
 
-**Deliver generative AI at scale with NVIDIA NIM on OpenShift AI (November 12, 2024)**
+**Deliver generative AI at scale with NVIDIA NIM on OpenShift AI (March 26, 2023)**
 <br/>
-Earlier this year, Red Hat announced plans to integrate support for NVIDIA NIM microservices on Red Hat OpenShift AI to help streamline inferencing for dozens of AI/ML models on a consistent, flexible hybrid cloud platform...
+Native support for NVIDIA NIM microservices is now generally available on Red Hat OpenShift AI to help streamline inferencing for dozens of AI/ML models on a consistent, flexible hybrid cloud platform. NVIDIA NIM...
 <br/>
 [Read further][nim-openshiftai]
 
@@ -12,7 +12,7 @@ Kubernetes Operators are constructed from different parts and components. This c
 <br/>
 [Read further][dev-operators]
 
-**Distribute clusters workloads with Open Cluster Management (January 19, 2023)**
+**Distribute cluster workloads with Open Cluster Management (January 19, 2023)**
 <br/>
 Open Cluster Management (OCM) was accepted to the Cloud Native Computing Foundation (CNCF) in late 2021 and is currently at the Sandbox project maturity level. OCM is a community-driven project focused on multicluster and multicloud scenarios for Kubernetes applications...
 <br/>
@@ -49,7 +49,7 @@ I've used a common approach for property-based matrix testing in Java. Using JUn
 
 **Migrating to Java Platform Module System (January 12, 2021)**
 <br/>
-This tutorial presents a complex scenario of migrating a non-modular project to JPMS. Inspired by a scenario I previously faced where one of my transitive dependencies was in-accessible (and not required)...
+This tutorial presents a complex scenario of migrating a non-modular project to JPMS. Inspired by a scenario I previously faced where one of my transitive dependencies was inaccessible (and not required)...
 <br/>
 [Read further][jpms-migration]
 
@@ -73,7 +73,7 @@ This is part of a multiple-part tutorial. This first part will explain the conce
 
 **Combining Groovy and Java (August 6, 2020)**
 <br/>
-Combining Groovy scripts in our Java-based code, is easy with Maven...
+Combining Groovy scripts in our Java-based code is easy with Maven...
 <br/>
 [Read further][groovy-java]
 
@@ -83,7 +83,7 @@ This tutorial will help you write automated test cases for Alexa skills written 
 <br/>
 [Read further][alexa-skill-testing]
 
-**My Ultimate Development Container image (August 14, 2020)**
+**My Ultimate Development Container Image (August 14, 2020)**
 <br/>
 Using VSCode's Remote Development Feature, we can remotely develop on another station using SSH or WSL. But my favorite feature is using Containers. We can potentially create isolated development...
 Using VSCode's Remote Development Feature, we can remotely develop on another station using SSH or WSL. But my favorite feature is using Containers. We can potentially create isolated development...
@@ -109,7 +109,7 @@ This is an example C# WebApp tested using Selenium browser automation with Nunit
 [jpms-migration]: https://dev.to/tomerfi/jpms-migration-playground-a94
 [junit-pioneer]: https://dev.to/tomerfi/junit-pioneer-frontiers-pushed-3jh7
 [kind-multi]: https://developers.redhat.com/articles/2023/01/16/how-prevent-computer-overload-remote-kind-clusters
-[nim-openshiftai]: https://developers.redhat.com/articles/2024/11/12/generative-ai-nvidia-nim-openshift-ai
+[nim-openshiftai]: https://developers.redhat.com/articles/2025/03/26/generative-ai-nvidia-nim-openshift-ai
 [property-testing]: https://dev.to/tomerfi/property-based-matrix-testing-in-java-47p4
 [rf-selenium]: https://dev.to/tomerfi/experimenting-with-robotframework-and-selenium-4jgc
 [workloads-ocm]: https://developers.redhat.com/articles/2023/01/19/how-distribute-workloads-using-open-cluster-management
