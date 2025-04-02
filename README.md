@@ -1,6 +1,6 @@
 ## Blog posts
 
-**Deliver generative AI at scale with NVIDIA NIM on OpenShift AI (March 26, 2023)**
+**Deliver generative AI at scale with NVIDIA NIM on OpenShift AI (March 26, 2024)**
 <br/>
 Native support for NVIDIA NIM microservices is now generally available on Red Hat OpenShift AI to help streamline inferencing for dozens of AI/ML models on a consistent, flexible hybrid cloud platform. NVIDIA NIM...
 <br/>
